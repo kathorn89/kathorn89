@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/LoadRunner-FF6600?style=for-the-badge&logoColor=white" alt="loadrunner" />
   <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter" />
   <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
+</div>
+
+<div style="display: flex;">
   <a href="https://www.postman.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="48" height="48" alt="Postman" /></a>
   <a href="https://grafana.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg" width="48" height="48" alt="Grafana" /></a>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" /></a>

@@ -1,8 +1,6 @@
-## Hi there :wave:
+## Hi, I'm สมปอง :wave:
 
-Hi! I'm Phatchathorn Punyatharo (Ping-Ping), a Performance Test Engineer based in Bangkok, Thailand. I graduated in Computer Engineering (BE.) from King Mongkut's University of Technology Thonburi (KMUTT).
-
-Currently, I'm a Performance Tester in Software Quality Control at Playtorium Solutions, with over 80% of my work focused on non-functional testing using LoadRunner, JMeter, and k6. I'm growing toward shift-left testing — because strong quality control starts before release, not after — with the goal of evolving beyond test execution into a true Software Engineer in Test.
+Currently, I'm a Performance Tester in Software Quality Control, with over 80% of my work focused on non-functional testing using LoadRunner, JMeter, and k6. I'm growing toward shift-left testing — because strong quality control starts before release, not after — with the goal of evolving beyond test execution into a true Software Engineer in Test.
 
 ## Experienced with :rocket:
 
@@ -14,7 +12,6 @@ Currently, I'm a Performance Tester in Software Quality Control at Playtorium So
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-    <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" alt="groovy" />
   </div>
 
 - #### Performance Test Tools
@@ -32,23 +29,6 @@ Currently, I'm a Performance Tester in Software Quality Control at Playtorium So
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="swagger" />
   </div>
-
-- #### Databases & Monitoring
-  <div style="display: flex;">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="dbeaver" />
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana" />
-    <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="influxdb" />
-  </div>
-
-- #### DevOps & Tools
-  <div style="display: flex;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kalilinux" />
   </div>
 
 ## Stats :chart_with_upwards_trend:

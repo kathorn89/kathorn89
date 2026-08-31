@@ -22,6 +22,4 @@
 </div>
 
 ### Stats
-<div style="display: flex;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=kathorn89&show_icons=true&count_private=true&title_color=5478ff&text_color=fffcf0&icon_color=ffcb05&bg_color=11296b&hide_border=true" alt="Phatchathorn's GitHub stats" height="195" />
-</div>
+[![สมปอง's GitHub stats](https://github-stats-extended.vercel.app/api?username=kathorn89)](https://github.com/stats-organization/github-stats-extended)

@@ -1,11 +1,9 @@
-### Hi there 👋 I'm สมปอง
+<!-- ### Hi there 👋 I'm สมปอง
 
 ### Performance Test Engineer
 * 🧪  Performance Testing & Quality Enthusiast
 * 🌍  Based in Bangkok, Thailand 🇹🇭
-* 🚀  Growing from test execution toward Software Engineer in Test (SDET)
-
-### Tech I'm passionate about
+* 🚀  Growing from test execution toward Software Engineer in Test (SDET)### Tech I'm passionate about
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/LoadRunner-FF6600?style=for-the-badge&logoColor=white" alt="loadrunner" />
   <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter" />
@@ -23,3 +21,4 @@
 
 ### Stats
 [![สมปอง's GitHub stats](https://github-stats-extended.vercel.app/api?username=kathorn89)](https://github.com/stats-organization/github-stats-extended)
+-->
